@@ -4,7 +4,7 @@
 
 This project dives into the betting trends and outcomes for the "Big Six" clubs in the Premier League, analyzing how their betting statistics and historical performance shape betting markets. The analysis covers data from several seasons to identify patterns and anomalies that could influence bettors' strategies. The focus is on examining betting odds, returns, and predictive patterns while comparing betting platforms like Bet365 and BetWay.
 
-Objectives
+## Objectives
 
 Identify Betting Trends: Investigate the impact of consecutive wins/losses, venue effects, and team strengths on betting odds for the Big Six clubs.
 
